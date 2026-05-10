@@ -1,0 +1,1 @@
+worker: python temp_email_bot.py
